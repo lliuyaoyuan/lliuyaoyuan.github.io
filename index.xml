@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LYY</title>
+    <link>http://lliuyaoyuan.github.io/</link>
+    <description>Recent content on LYY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lliuyaoyuan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux课 程 大 作 业 完 成 记 录 </title>
+      <link>http://lliuyaoyuan.github.io/post/linux%E8%AF%BE%E7%A8%8B%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%AE%8C%E6%88%90%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://lliuyaoyuan.github.io/post/linux%E8%AF%BE%E7%A8%8B%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%AE%8C%E6%88%90%E8%AE%B0%E5%BD%95/</guid>
+      <description>安装配置Git 1.安装依赖包
+dnf install crul-devel expat-devel gettext-devel openssl-devel zlib-devel dnf install gcc per-ExtUtils-MakeMaker 2.</description>
+    </item>
+    
+  </channel>
+</rss>
